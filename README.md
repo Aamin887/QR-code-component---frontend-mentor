@@ -24,8 +24,8 @@ This project is static page made with HTML and CSS to display a card with a QR c
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github repo](https://github.com/Aamin887/QR-code-component---frontend-mentor.git)
+- Live Site URL: [Live here](https://aamin887.github.io/QR-code-component---frontend-mentor/)
 
 ### Built with
 
